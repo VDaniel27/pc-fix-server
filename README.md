@@ -13,3 +13,7 @@ Backend proxy service that handles API calls to Google Gemini AI for the PC Main
 ## 🚀 Tech Stack
 * **Backend Framework:** [Node.js / Express / C# .NET / Python FastAPI — *tu tecnología*]
 * **AI Provider:** Google Gemini API
+
+## 🔗 Frontend Repository
+This backend server powers the user interface for the PC maintenance web application:
+👉 **[PC Maintenance Client App](https://github.com/tu-usuario/nombre-repo-frontend)**
